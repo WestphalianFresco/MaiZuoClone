@@ -1,2 +1,2 @@
 # MaiZuoClone
-an attempt to clone maizuo.com for practice purposes. Not for profit 
+an attempt to clone maizuo.com for practice purposes. Not-for-profit 
